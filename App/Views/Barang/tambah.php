@@ -10,7 +10,7 @@
   <!-- Font Awesome -->
   <link rel="stylesheet" href="public/AdminLTE/plugins/fontawesome-free/css/all.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="public/AdminLTE/dist/css/adminlte.min.css">
+  <link rel="stylesheet" href="public/css/adminlte.min.css">
 
   <style>
     /* Tema Umum */
@@ -101,8 +101,8 @@
 <!-- Bootstrap 4 -->
 <script src="public/AdminLTE/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- AdminLTE App -->
-<script src="public/AdminLTE/dist/js/adminlte.min.js"></script>
+<script src="public/js/adminlte.min.js"></script>
 <!-- AdminLTE for demo purposes -->
-<script src="public/AdminLTE/dist/js/demo.js"></script>
+<script src="public/js/demo.js"></script>
 </body>
 </html>
